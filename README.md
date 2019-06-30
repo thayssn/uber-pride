@@ -27,3 +27,7 @@ Build and run on android
 ```
 yarn android
 ```
+
+
+## Google Maps
+Search for API_KEY in the project and replace with your own Google Maps API key
